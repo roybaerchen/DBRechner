@@ -7,6 +7,5 @@
   <author email="roy.bartsch@web.de">
     Roy Bartsch
   </author>
-  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
   <preference name="UseStrictSSL" value="false" />
 </widget>
