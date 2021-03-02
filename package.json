@@ -1,6 +1,5 @@
 {
-  "main": "dist",
-  "private": true,
+  "main": "src/index.jsx",
   "scripts": {
     "test": "npm run build && npm run lint",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
