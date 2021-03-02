@@ -9,4 +9,8 @@
   </author>
   <preference name="EnableDeveloperConsole" value="true" />
   <preference name="UseStrictSSL" value="false" />
+  
+  <platform name="android">
+    <preference name="Theme" value="@style/Theme.Tabris.App" />
+  </platform>
 </widget>
