@@ -1,5 +1,5 @@
 {
-  "main": "src/index.jsx",
+  "main": "dist",
   "scripts": {
     "test": "npm run build && npm run lint",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
